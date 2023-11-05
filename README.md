@@ -1,4 +1,4 @@
-# Deadlock-detection-and-recovery
+# Deadlock-detection-and-handling
 This project describes about what a deadlock and how we detect and check a deadlock in linux mainly ubuntu in kernel level
 First download all the files in the repository into a new folder.
 in case of error use sudo apt upgrade for updating terminal.
