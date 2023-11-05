@@ -11,9 +11,9 @@ TEMPLATE = app
 DEFINES += ENABLE_DEADLOCK_CHECK
 
 SOURCES += test.cpp \
-    ./src/DeadlockChecker.cpp \
+    DeadlockChecker.cpp \
     ReadWriteLock.cpp 
 
 HEADERS += \
-    ./src/DeadlockChecker.h \
+    DeadlockChecker.h \
     ReadWriteLock.h \
